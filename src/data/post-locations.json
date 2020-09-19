@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "post_1",
+        "emotion_id": "emotion_1",
+        "topic_id": "topic_1",
+        "img_url": "/icons/1.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.65, 37.60]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "post_2",
+        "emotion_id": "emotion_2",
+        "topic_id": "topic_2",
+        "img_url": "/icons/2.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.90, 37.59]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "post_3",
+        "emotion_id": "emotion_3",
+        "topic_id": "topic_3",
+        "img_url": "/icons/3.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.75, 37.64]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "post_4",
+        "emotion_id": "emotion_1",
+        "topic_id": "topic_4",
+        "img_url": "/icons/4.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.70, 37.55]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "post_5",
+        "emotion_id": "emotion_2",
+        "topic_id": "topic_5",
+        "img_url": "/icons/5.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.86, 37.72]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "post_6",
+        "emotion_id": "emotion_4",
+        "topic_id": "topic_6",
+        "img_url": "/icons/6.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.82, 37.45]
+      }
+    }
+  ]
+}

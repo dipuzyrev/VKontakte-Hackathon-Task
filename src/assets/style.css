@@ -1,0 +1,23 @@
+.main-map-wrapper {
+    background-color: #eee;
+    height: 100vh;
+}
+
+.emotions-selector-wrapper {
+    /*height: 185px;*/
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 14px 14px 0 0;
+    background-color: #fff;
+    box-shadow: 0 2px 24px 0 rgba(0, 0, 0, 0.15);
+}
+
+.emotion[data-status="selected"] {
+    border-color: #333 !important;
+}
+
+.topic-image[data-status="selected"] {
+    border-color: #333 !important;
+}
