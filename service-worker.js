@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vk-hack-emotions-web/precache-manifest.df8ce756175162ccf5cffcbd82f6ef00.js"
+  "/vk-hack-emotions-web/precache-manifest.f1e261572c9a548cc1be614a2ce7be8d.js"
 );
 
 self.addEventListener('message', (event) => {

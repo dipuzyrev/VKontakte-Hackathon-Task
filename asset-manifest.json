@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vk-hack-emotions-web/static/css/main.7ffd9f21.chunk.css",
-    "main.js": "/vk-hack-emotions-web/static/js/main.49728044.chunk.js",
-    "main.js.map": "/vk-hack-emotions-web/static/js/main.49728044.chunk.js.map",
+    "main.js": "/vk-hack-emotions-web/static/js/main.a604aef4.chunk.js",
+    "main.js.map": "/vk-hack-emotions-web/static/js/main.a604aef4.chunk.js.map",
     "runtime-main.js": "/vk-hack-emotions-web/static/js/runtime-main.dce31221.js",
     "runtime-main.js.map": "/vk-hack-emotions-web/static/js/runtime-main.dce31221.js.map",
     "static/css/2.09e62520.chunk.css": "/vk-hack-emotions-web/static/css/2.09e62520.chunk.css",
     "static/js/2.cf0aa949.chunk.js": "/vk-hack-emotions-web/static/js/2.cf0aa949.chunk.js",
     "static/js/2.cf0aa949.chunk.js.map": "/vk-hack-emotions-web/static/js/2.cf0aa949.chunk.js.map",
     "index.html": "/vk-hack-emotions-web/index.html",
-    "precache-manifest.df8ce756175162ccf5cffcbd82f6ef00.js": "/vk-hack-emotions-web/precache-manifest.df8ce756175162ccf5cffcbd82f6ef00.js",
+    "precache-manifest.f1e261572c9a548cc1be614a2ce7be8d.js": "/vk-hack-emotions-web/precache-manifest.f1e261572c9a548cc1be614a2ce7be8d.js",
     "service-worker.js": "/vk-hack-emotions-web/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/vk-hack-emotions-web/static/css/2.09e62520.chunk.css.map",
     "static/css/main.7ffd9f21.chunk.css.map": "/vk-hack-emotions-web/static/css/main.7ffd9f21.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.09e62520.chunk.css",
     "static/js/2.cf0aa949.chunk.js",
     "static/css/main.7ffd9f21.chunk.css",
-    "static/js/main.49728044.chunk.js"
+    "static/js/main.a604aef4.chunk.js"
   ]
 }
