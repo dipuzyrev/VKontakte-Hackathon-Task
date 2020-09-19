@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vk-hack-emotions-web/static/css/main.7ffd9f21.chunk.css",
+    "main.js": "/vk-hack-emotions-web/static/js/main.a7ab0bec.chunk.js",
+    "main.js.map": "/vk-hack-emotions-web/static/js/main.a7ab0bec.chunk.js.map",
+    "runtime-main.js": "/vk-hack-emotions-web/static/js/runtime-main.dce31221.js",
+    "runtime-main.js.map": "/vk-hack-emotions-web/static/js/runtime-main.dce31221.js.map",
+    "static/css/2.09e62520.chunk.css": "/vk-hack-emotions-web/static/css/2.09e62520.chunk.css",
+    "static/js/2.cf0aa949.chunk.js": "/vk-hack-emotions-web/static/js/2.cf0aa949.chunk.js",
+    "static/js/2.cf0aa949.chunk.js.map": "/vk-hack-emotions-web/static/js/2.cf0aa949.chunk.js.map",
+    "index.html": "/vk-hack-emotions-web/index.html",
+    "precache-manifest.a21c5c73f37fdadf066ae170610daebc.js": "/vk-hack-emotions-web/precache-manifest.a21c5c73f37fdadf066ae170610daebc.js",
+    "service-worker.js": "/vk-hack-emotions-web/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/vk-hack-emotions-web/static/css/2.09e62520.chunk.css.map",
+    "static/css/main.7ffd9f21.chunk.css.map": "/vk-hack-emotions-web/static/css/main.7ffd9f21.chunk.css.map",
+    "static/js/2.cf0aa949.chunk.js.LICENSE.txt": "/vk-hack-emotions-web/static/js/2.cf0aa949.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dce31221.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.cf0aa949.chunk.js",
+    "static/css/main.7ffd9f21.chunk.css",
+    "static/js/main.a7ab0bec.chunk.js"
+  ]
+}
