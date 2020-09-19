@@ -7,7 +7,7 @@
         "id": "post_1",
         "emotion_id": "emotion_1",
         "topic_id": "topic_1",
-        "img_url": "/icons/1.png"
+        "img_url": "https://puzyrevdmi.github.io/vk-hack-emotions-web/icons/1.png"
       },
       "geometry": {
         "type": "Point",
@@ -20,7 +20,7 @@
         "id": "post_2",
         "emotion_id": "emotion_2",
         "topic_id": "topic_2",
-        "img_url": "/icons/2.png"
+        "img_url": "https://puzyrevdmi.github.io/vk-hack-emotions-web/icons/2.png"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
         "id": "post_3",
         "emotion_id": "emotion_3",
         "topic_id": "topic_3",
-        "img_url": "/icons/3.png"
+        "img_url": "https://puzyrevdmi.github.io/vk-hack-emotions-web/icons/3.png"
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +46,7 @@
         "id": "post_4",
         "emotion_id": "emotion_1",
         "topic_id": "topic_4",
-        "img_url": "/icons/4.png"
+        "img_url": "https://puzyrevdmi.github.io/vk-hack-emotions-web/icons/4.png"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +59,7 @@
         "id": "post_5",
         "emotion_id": "emotion_2",
         "topic_id": "topic_5",
-        "img_url": "/icons/5.png"
+        "img_url": "https://puzyrevdmi.github.io/vk-hack-emotions-web/icons/5.png"
       },
       "geometry": {
         "type": "Point",
@@ -72,7 +72,7 @@
         "id": "post_6",
         "emotion_id": "emotion_4",
         "topic_id": "topic_6",
-        "img_url": "/icons/6.png"
+        "img_url": "https://puzyrevdmi.github.io/vk-hack-emotions-web/icons/6.png"
       },
       "geometry": {
         "type": "Point",

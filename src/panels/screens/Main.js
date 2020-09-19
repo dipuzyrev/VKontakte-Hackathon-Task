@@ -1,5 +1,5 @@
 import React from 'react';
-import {Root, View, Panel} from '@vkontakte/vkui'
+import {Root, View, Panel, PanelHeader, PanelHeaderBack} from '@vkontakte/vkui'
 import '@vkontakte/vkui/dist/vkui.css';
 import '../../assets/style.css'
 
@@ -21,6 +21,11 @@ class Main extends React.Component {
                 <View activePanel={this.state.activePanel} id='start'>
                     <Panel id='map'>
                         <MapView />
+                    </Panel>
+                    <Panel id='posts'>
+                        <PanelHeader left={<PanelHeaderBack onClick={ () => this.setState({ activePanel: 'map' }) } />}>Фото</PanelHeader>
+                        <h1>Posts</h1>
+                        {/*<PostsView />*/}
                     </Panel>
                 </View>
             </Root>
